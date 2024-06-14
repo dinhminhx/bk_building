@@ -94,7 +94,10 @@ const Dashboard = (props) => {
     };
 
     const currentDay = selectedDate.format("dddd");
-
+    const convertTimeToMinutes = (time) => {
+        const [hours, minutes] = time.split(/[:h]/).map(Number);
+        return hours * 60 + minutes;
+      };
     const filterRooms = () => {
         let filteredRooms = rooms;
 
@@ -106,14 +109,14 @@ const Dashboard = (props) => {
 
         if (checkboxStates.checkbox2) {
             filteredRooms = filteredRooms.filter((room) => {
-                const roomStartTime = room.time.split(" - ")[0];
-                const roomEndTime = room.time.split(" - ")[1];
+                const roomStartTime = convertTimeToMinutes(room.time.split(" - ")[0]);
+                const roomEndTime = convertTimeToMinutes(room.time.split(" - ")[1]);
                 if (startTime && endTime) {
-                    return roomStartTime <= startTime && roomEndTime >= endTime;
+                    return roomStartTime <= convertTimeToMinutes(startTime) && roomEndTime >= convertTimeToMinutes(endTime);
                 } else if (startTime) {
-                    return roomStartTime <= startTime;
+                    return roomStartTime <= convertTimeToMinutes(startTime);
                 } else if (endTime) {
-                    return roomEndTime >= endTime;
+                    return roomEndTime >= convertTimeToMinutes(endTime);
                 } else {
                     return true;
                 }

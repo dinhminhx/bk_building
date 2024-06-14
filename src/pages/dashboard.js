@@ -109,11 +109,11 @@ const Dashboard = (props) => {
                 const roomStartTime = room.time.split(" - ")[0];
                 const roomEndTime = room.time.split(" - ")[1];
                 if (startTime && endTime) {
-                    return roomStartTime >= startTime && roomEndTime <= endTime;
+                    return roomStartTime <= startTime && roomEndTime >= endTime;
                 } else if (startTime) {
-                    return roomStartTime >= startTime;
+                    return roomStartTime <= startTime;
                 } else if (endTime) {
-                    return roomEndTime <= endTime;
+                    return roomEndTime >= endTime;
                 } else {
                     return true;
                 }

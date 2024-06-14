@@ -1,0 +1,2002 @@
+[
+    {
+        "building": "D7",
+        "room": "101",
+        "time": "06h45 - 09h10",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "D7",
+        "room": "101",
+        "time": "09h20 - 11h45",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "D7",
+        "room": "101",
+        "time": "06h45 - 09h10",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "D8",
+        "room": "1004",
+        "time": "13h00 - 14h55",
+        "startWeek": 30,
+        "endWeek": 40,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "D8",
+        "room": "1004",
+        "time": "13h00 - 14h55",
+        "startWeek": 30,
+        "endWeek": 40,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "D8",
+        "room": "1004",
+        "time": "13h00 - 14h55",
+        "startWeek": 31,
+        "endWeek": 41,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "D8",
+        "room": "1004",
+        "time": "13h00 - 14h55",
+        "startWeek": 31,
+        "endWeek": 41,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "D8",
+        "room": "1004",
+        "time": "13h00 - 14h55",
+        "startWeek": 31,
+        "endWeek": 41,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "D7",
+        "room": "101",
+        "time": "09h20 - 11h45",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "D4",
+        "room": "103",
+        "time": "12h30 - 14h55",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "D4",
+        "room": "103",
+        "time": "15h05 - 17h30",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "D8",
+        "room": "303",
+        "time": "06h45 - 10h05",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "D8",
+        "room": "303",
+        "time": "06h45 - 10h05",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "D8",
+        "room": "303",
+        "time": "10h15 - 11h45",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "D8",
+        "room": "303",
+        "time": "10h15 - 11h45",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "D8",
+        "room": "303",
+        "time": "06h45 - 10h05",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "D8",
+        "room": "303",
+        "time": "06h45 - 10h05",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "C7",
+        "room": "234",
+        "time": "15h05 - 17h30",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "B1",
+        "room": "107",
+        "time": "07h30 - 11h45",
+        "startWeek": 40,
+        "endWeek": 41,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "B1",
+        "room": "108",
+        "time": "07h30 - 11h45",
+        "startWeek": 40,
+        "endWeek": 41,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "D3",
+        "room": "402",
+        "time": "12h30 - 15h50",
+        "startWeek": 25,
+        "endWeek": 42,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "D3",
+        "room": "402",
+        "time": "16h00 - 17h30",
+        "startWeek": 25,
+        "endWeek": 42,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "D3",
+        "room": "405",
+        "time": "12h30 - 14h00",
+        "startWeek": 25,
+        "endWeek": 42,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "D9",
+        "room": "102",
+        "time": "08h25 - 11h45",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "B1",
+        "room": "107",
+        "time": "12h30 - 16h45",
+        "startWeek": 30,
+        "endWeek": 39,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "B1",
+        "room": "108",
+        "time": "12h30 - 16h45",
+        "startWeek": 30,
+        "endWeek": 39,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "B1",
+        "room": "107",
+        "time": "12h30 - 16h45",
+        "startWeek": 30,
+        "endWeek": 39,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "B1",
+        "room": "108",
+        "time": "12h30 - 16h45",
+        "startWeek": 30,
+        "endWeek": 39,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "B1",
+        "room": "107",
+        "time": "12h30 - 16h45",
+        "startWeek": 30,
+        "endWeek": 39,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "401A",
+        "time": "07h30 - 11h45",
+        "startWeek": 27,
+        "endWeek": 36,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C4",
+        "room": "401B",
+        "time": "07h30 - 11h45",
+        "startWeek": 27,
+        "endWeek": 36,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "401A",
+        "time": "07h30 - 11h45",
+        "startWeek": 27,
+        "endWeek": 36,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "401B",
+        "time": "07h30 - 11h45",
+        "startWeek": 27,
+        "endWeek": 36,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "401B",
+        "time": "07h30 - 11h45",
+        "startWeek": 27,
+        "endWeek": 36,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "D9",
+        "room": "202",
+        "time": "06h45 - 10h05",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "D9",
+        "room": "202",
+        "time": "10h15 - 11h45",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "D9",
+        "room": "202",
+        "time": "06h45 - 08h15",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "D9",
+        "room": "202",
+        "time": "08h25 - 11h45",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "B1",
+        "room": "108",
+        "time": "12h30 - 16h45",
+        "startWeek": 30,
+        "endWeek": 39,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "B1",
+        "room": "107",
+        "time": "12h30 - 16h45",
+        "startWeek": 30,
+        "endWeek": 39,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "B1",
+        "room": "108",
+        "time": "12h30 - 16h45",
+        "startWeek": 30,
+        "endWeek": 39,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "B1",
+        "room": "107",
+        "time": "12h30 - 16h45",
+        "startWeek": 30,
+        "endWeek": 39,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "B1",
+        "room": "108",
+        "time": "12h30 - 16h45",
+        "startWeek": 30,
+        "endWeek": 39,
+        "day": "Thứ Bảy"
+    },
+    {
+        "building": "D9",
+        "room": "507",
+        "time": "12h30 - 14h55",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "D9",
+        "room": "507",
+        "time": "12h30 - 14h55",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "D9",
+        "room": "507",
+        "time": "15h05 - 17h30",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "D9",
+        "room": "102",
+        "time": "12h30 - 14h55",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "D9",
+        "room": "506",
+        "time": "14h10 - 15h50",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "D9",
+        "room": "507",
+        "time": "16h00 - 17h30",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "D9",
+        "room": "506",
+        "time": "16h00 - 17h30",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "D9",
+        "room": "507",
+        "time": "14h10 - 15h50",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "D9",
+        "room": "206",
+        "time": "12h30 - 14h00",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "D9",
+        "room": "507",
+        "time": "15h05 - 16h45",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "C4",
+        "room": "204",
+        "time": "07h30 - 11h45",
+        "startWeek": 35,
+        "endWeek": 38,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "07h30 - 11h45",
+        "startWeek": 37,
+        "endWeek": 37,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "07h30 - 11h45",
+        "startWeek": 37,
+        "endWeek": 37,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "C4",
+        "room": "204",
+        "time": "07h30 - 11h45",
+        "startWeek": 35,
+        "endWeek": 38,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "07h30 - 11h45",
+        "startWeek": 37,
+        "endWeek": 37,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "07h30 - 11h45",
+        "startWeek": 37,
+        "endWeek": 37,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "C4",
+        "room": "204",
+        "time": "07h30 - 11h45",
+        "startWeek": 35,
+        "endWeek": 38,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "07h30 - 11h45",
+        "startWeek": 38,
+        "endWeek": 38,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "07h30 - 11h45",
+        "startWeek": 38,
+        "endWeek": 38,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "C4",
+        "room": "204",
+        "time": "07h30 - 11h45",
+        "startWeek": 35,
+        "endWeek": 38,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "07h30 - 11h45",
+        "startWeek": 38,
+        "endWeek": 38,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "07h30 - 11h45",
+        "startWeek": 38,
+        "endWeek": 38,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "C4",
+        "room": "204",
+        "time": "07h30 - 11h45",
+        "startWeek": 35,
+        "endWeek": 38,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "07h30 - 11h45",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "07h30 - 11h45",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "C4",
+        "room": "204",
+        "time": "07h30 - 11h45",
+        "startWeek": 35,
+        "endWeek": 38,
+        "day": "Thứ Bảy"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "07h30 - 11h45",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "07h30 - 11h45",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "C4",
+        "room": "204",
+        "time": "07h30 - 11h45",
+        "startWeek": 39,
+        "endWeek": 42,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "07h30 - 11h45",
+        "startWeek": 40,
+        "endWeek": 40,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "07h30 - 11h45",
+        "startWeek": 40,
+        "endWeek": 40,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "C4",
+        "room": "204",
+        "time": "07h30 - 11h45",
+        "startWeek": 39,
+        "endWeek": 42,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "07h30 - 11h45",
+        "startWeek": 40,
+        "endWeek": 40,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "07h30 - 11h45",
+        "startWeek": 40,
+        "endWeek": 40,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "C4",
+        "room": "204",
+        "time": "07h30 - 11h45",
+        "startWeek": 39,
+        "endWeek": 42,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "07h30 - 11h45",
+        "startWeek": 41,
+        "endWeek": 41,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "07h30 - 11h45",
+        "startWeek": 41,
+        "endWeek": 41,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "204",
+        "time": "13h15 - 17h30",
+        "startWeek": 10,
+        "endWeek": 42,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "13h15 - 17h30",
+        "startWeek": 41,
+        "endWeek": 41,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "13h15 - 17h30",
+        "startWeek": 41,
+        "endWeek": 41,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "D9",
+        "room": "506",
+        "time": "12h30 - 14h00",
+        "startWeek": 25,
+        "endWeek": 31,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "D9",
+        "room": "506",
+        "time": "12h30 - 14h00",
+        "startWeek": 25,
+        "endWeek": 31,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "D9",
+        "room": "506",
+        "time": "12h30 - 14h00",
+        "startWeek": 34,
+        "endWeek": 41,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "D9",
+        "room": "506",
+        "time": "12h30 - 14h00",
+        "startWeek": 34,
+        "endWeek": 41,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "D8",
+        "room": "505",
+        "time": "07h30 - 09h10",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "D8",
+        "room": "505",
+        "time": "07h30 - 09h10",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "D8",
+        "room": "505",
+        "time": "09h20 - 11h00",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "13h15 - 17h30",
+        "startWeek": 27,
+        "endWeek": 28,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "13h15 - 17h30",
+        "startWeek": 27,
+        "endWeek": 28,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "13h15 - 17h30",
+        "startWeek": 27,
+        "endWeek": 28,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "13h15 - 17h30",
+        "startWeek": 27,
+        "endWeek": 28,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "13h15 - 17h30",
+        "startWeek": 27,
+        "endWeek": 28,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "13h15 - 17h30",
+        "startWeek": 27,
+        "endWeek": 28,
+        "day": "Thứ Bảy"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "13h15 - 17h30",
+        "startWeek": 30,
+        "endWeek": 31,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "13h15 - 17h30",
+        "startWeek": 30,
+        "endWeek": 31,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "13h15 - 17h30",
+        "startWeek": 30,
+        "endWeek": 31,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "D6",
+        "room": "304",
+        "time": "15h05 - 17h30",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "07h30 - 11h45",
+        "startWeek": 27,
+        "endWeek": 28,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "D9",
+        "room": "102",
+        "time": "15h05 - 17h30",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "07h30 - 11h45",
+        "startWeek": 27,
+        "endWeek": 28,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "07h30 - 11h45",
+        "startWeek": 27,
+        "endWeek": 28,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "07h30 - 11h45",
+        "startWeek": 27,
+        "endWeek": 28,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "07h30 - 11h45",
+        "startWeek": 27,
+        "endWeek": 28,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "07h30 - 11h45",
+        "startWeek": 27,
+        "endWeek": 28,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "07h30 - 11h45",
+        "startWeek": 27,
+        "endWeek": 28,
+        "day": "Thứ Bảy"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "07h30 - 11h45",
+        "startWeek": 30,
+        "endWeek": 31,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "07h30 - 11h45",
+        "startWeek": 30,
+        "endWeek": 31,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "07h30 - 11h45",
+        "startWeek": 30,
+        "endWeek": 31,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "07h30 - 11h45",
+        "startWeek": 30,
+        "endWeek": 31,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "07h30 - 11h45",
+        "startWeek": 30,
+        "endWeek": 31,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "C4",
+        "room": "401B",
+        "time": "07h30 - 11h45",
+        "startWeek": 27,
+        "endWeek": 36,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C4",
+        "room": "401A",
+        "time": "07h30 - 11h45",
+        "startWeek": 27,
+        "endWeek": 36,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "D9",
+        "room": "506",
+        "time": "12h30 - 14h00",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "D9",
+        "room": "506",
+        "time": "14h10 - 17h30",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "D9",
+        "room": "104",
+        "time": "14h10 - 17h30",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "D9",
+        "room": "507",
+        "time": "14h10 - 15h50",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "D9",
+        "room": "506",
+        "time": "16h00 - 17h30",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "B1",
+        "room": "108",
+        "time": "07h30 - 11h45",
+        "startWeek": 37,
+        "endWeek": 38,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "B1",
+        "room": "108",
+        "time": "07h30 - 11h45",
+        "startWeek": 37,
+        "endWeek": 38,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "B1",
+        "room": "108",
+        "time": "07h30 - 11h45",
+        "startWeek": 37,
+        "endWeek": 38,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "B1",
+        "room": "108",
+        "time": "07h30 - 11h45",
+        "startWeek": 37,
+        "endWeek": 38,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "B1",
+        "room": "108",
+        "time": "07h30 - 11h45",
+        "startWeek": 37,
+        "endWeek": 38,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "B1",
+        "room": "108",
+        "time": "12h30 - 16h45",
+        "startWeek": 37,
+        "endWeek": 38,
+        "day": "Thứ Bảy"
+    },
+    {
+        "building": "D9",
+        "room": "506",
+        "time": "12h30 - 14h00",
+        "startWeek": 26,
+        "endWeek": 42,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "D9",
+        "room": "506",
+        "time": "12h30 - 14h00",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "401A",
+        "time": "07h30 - 11h45",
+        "startWeek": 31,
+        "endWeek": 35,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C4",
+        "room": "401A",
+        "time": "07h30 - 11h45",
+        "startWeek": 31,
+        "endWeek": 35,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "401A",
+        "time": "07h30 - 11h45",
+        "startWeek": 31,
+        "endWeek": 35,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "401A",
+        "time": "07h30 - 11h45",
+        "startWeek": 31,
+        "endWeek": 35,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "C4",
+        "room": "401A",
+        "time": "07h30 - 11h45",
+        "startWeek": 31,
+        "endWeek": 35,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "D9",
+        "room": "507",
+        "time": "16h00 - 17h30",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "D9",
+        "room": "506",
+        "time": "14h10 - 15h50",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "B1",
+        "room": "101",
+        "time": "07h30 - 11h45",
+        "startWeek": 40,
+        "endWeek": 41,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "B1",
+        "room": "101",
+        "time": "07h30 - 11h45",
+        "startWeek": 40,
+        "endWeek": 41,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "B1",
+        "room": "101",
+        "time": "07h30 - 11h45",
+        "startWeek": 40,
+        "endWeek": 41,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "B1",
+        "room": "101",
+        "time": "07h30 - 11h45",
+        "startWeek": 40,
+        "endWeek": 41,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "B1",
+        "room": "101",
+        "time": "07h30 - 11h45",
+        "startWeek": 40,
+        "endWeek": 41,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "D9",
+        "room": "305",
+        "time": "08h25 - 10h05",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "13h15 - 17h30",
+        "startWeek": 34,
+        "endWeek": 35,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "13h15 - 17h30",
+        "startWeek": 34,
+        "endWeek": 35,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "13h15 - 17h30",
+        "startWeek": 34,
+        "endWeek": 35,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "13h15 - 17h30",
+        "startWeek": 34,
+        "endWeek": 35,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "D9",
+        "room": "506",
+        "time": "12h30 - 14h55",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "D9",
+        "room": "506",
+        "time": "15h05 - 17h30",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "D8",
+        "room": "103",
+        "time": "07h30 - 09h10",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "D6",
+        "room": "304",
+        "time": "07h30 - 09h10",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "D6",
+        "room": "304",
+        "time": "10h15 - 11h45",
+        "startWeek": 25,
+        "endWeek": 31,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "13h15 - 17h30",
+        "startWeek": 28,
+        "endWeek": 28,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "13h15 - 17h30",
+        "startWeek": 28,
+        "endWeek": 28,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "13h15 - 17h30",
+        "startWeek": 28,
+        "endWeek": 28,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "13h15 - 17h30",
+        "startWeek": 28,
+        "endWeek": 28,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "13h15 - 17h30",
+        "startWeek": 29,
+        "endWeek": 29,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "13h15 - 17h30",
+        "startWeek": 29,
+        "endWeek": 29,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "13h15 - 17h30",
+        "startWeek": 29,
+        "endWeek": 29,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "13h15 - 17h30",
+        "startWeek": 29,
+        "endWeek": 29,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "13h15 - 17h30",
+        "startWeek": 29,
+        "endWeek": 29,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "C4",
+        "room": "112",
+        "time": "13h15 - 17h30",
+        "startWeek": 30,
+        "endWeek": 30,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "D6",
+        "room": "304",
+        "time": "06h45 - 10h05",
+        "startWeek": 25,
+        "endWeek": 31,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "D6",
+        "room": "304",
+        "time": "09h20 - 11h45",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "D6",
+        "room": "304",
+        "time": "07h30 - 09h10",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "C4",
+        "room": "401A",
+        "time": "12h30 - 16h45",
+        "startWeek": 31,
+        "endWeek": 31,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C4",
+        "room": "401A",
+        "time": "12h30 - 16h45",
+        "startWeek": 31,
+        "endWeek": 31,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "401A",
+        "time": "12h30 - 16h45",
+        "startWeek": 31,
+        "endWeek": 31,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "401A",
+        "time": "12h30 - 16h45",
+        "startWeek": 31,
+        "endWeek": 31,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "C4",
+        "room": "401A",
+        "time": "12h30 - 16h45",
+        "startWeek": 31,
+        "endWeek": 31,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "C4",
+        "room": "401A",
+        "time": "07h30 - 16h45",
+        "startWeek": 33,
+        "endWeek": 33,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C4",
+        "room": "401A",
+        "time": "07h30 - 16h45",
+        "startWeek": 33,
+        "endWeek": 33,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "401A",
+        "time": "07h30 - 16h45",
+        "startWeek": 33,
+        "endWeek": 33,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "401A",
+        "time": "07h30 - 16h45",
+        "startWeek": 33,
+        "endWeek": 33,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "C4",
+        "room": "401A",
+        "time": "07h30 - 16h45",
+        "startWeek": 33,
+        "endWeek": 33,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "D9",
+        "room": "102",
+        "time": "10h15 - 11h45",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "13h15 - 17h30",
+        "startWeek": 37,
+        "endWeek": 38,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "13h15 - 17h30",
+        "startWeek": 37,
+        "endWeek": 38,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "301",
+        "time": "13h15 - 17h30",
+        "startWeek": 37,
+        "endWeek": 38,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "D7",
+        "room": "502",
+        "time": "06h45 - 10h05",
+        "startWeek": 25,
+        "endWeek": 31,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "D8",
+        "room": "103",
+        "time": "09h20 - 11h45",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "13h15 - 17h30",
+        "startWeek": 34,
+        "endWeek": 36,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "111",
+        "time": "13h15 - 17h30",
+        "startWeek": 34,
+        "endWeek": 36,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "D6",
+        "room": "304",
+        "time": "09h20 - 11h45",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "209",
+        "time": "13h15 - 17h30",
+        "startWeek": 34,
+        "endWeek": 36,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C4",
+        "room": "209",
+        "time": "13h15 - 17h30",
+        "startWeek": 34,
+        "endWeek": 36,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "D6",
+        "room": "304",
+        "time": "09h20 - 11h45",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "C4",
+        "room": "112",
+        "time": "13h15 - 17h30",
+        "startWeek": 37,
+        "endWeek": 39,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C4",
+        "room": "112",
+        "time": "13h15 - 17h30",
+        "startWeek": 37,
+        "endWeek": 39,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "D6",
+        "room": "304",
+        "time": "06h45 - 09h10",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C4",
+        "room": "112",
+        "time": "13h15 - 17h30",
+        "startWeek": 34,
+        "endWeek": 36,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "D7",
+        "room": "502",
+        "time": "09h20 - 11h45",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "D6",
+        "room": "301",
+        "time": "12h30 - 15h50",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "D3",
+        "room": "403",
+        "time": "12h30 - 14h55",
+        "startWeek": 25,
+        "endWeek": 42,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "D3",
+        "room": "404",
+        "time": "15h05 - 17h30",
+        "startWeek": 25,
+        "endWeek": 42,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "D3",
+        "room": "402",
+        "time": "12h30 - 14h55",
+        "startWeek": 25,
+        "endWeek": 42,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "D3",
+        "room": "403",
+        "time": "15h05 - 17h30",
+        "startWeek": 25,
+        "endWeek": 42,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "D9",
+        "room": "103",
+        "time": "12h30 - 14h55",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "D9",
+        "room": "103",
+        "time": "12h30 - 14h55",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "D9",
+        "room": "103",
+        "time": "15h05 - 17h30",
+        "startWeek": 25,
+        "endWeek": 41,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "D3",
+        "room": "402",
+        "time": "15h05 - 17h30",
+        "startWeek": 25,
+        "endWeek": 42,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "D3",
+        "room": "402",
+        "time": "12h30 - 14h55",
+        "startWeek": 25,
+        "endWeek": 42,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "D3",
+        "room": "402",
+        "time": "15h05 - 17h30",
+        "startWeek": 25,
+        "endWeek": 42,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "D3",
+        "room": "403",
+        "time": "12h30 - 14h55",
+        "startWeek": 25,
+        "endWeek": 42,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "D3",
+        "room": "403",
+        "time": "15h05 - 17h30",
+        "startWeek": 25,
+        "endWeek": 42,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "D3",
+        "room": "402",
+        "time": "12h30 - 14h55",
+        "startWeek": 25,
+        "endWeek": 42,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "D3",
+        "room": "404",
+        "time": "06h45 - 09h10",
+        "startWeek": 25,
+        "endWeek": 42,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "D3",
+        "room": "404",
+        "time": "09h20 - 11h45",
+        "startWeek": 25,
+        "endWeek": 42,
+        "day": "Thứ Năm"
+    },
+    {
+        "building": "D3",
+        "room": "402",
+        "time": "12h30 - 14h55",
+        "startWeek": 25,
+        "endWeek": 42,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "D3",
+        "room": "402",
+        "time": "15h05 - 17h30",
+        "startWeek": 25,
+        "endWeek": 42,
+        "day": "Thứ Sáu"
+    },
+    {
+        "building": "D3",
+        "room": "405",
+        "time": "12h30 - 14h55",
+        "startWeek": 25,
+        "endWeek": 42,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C1",
+        "room": "405",
+        "time": "06h45 - 09h10",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C1",
+        "room": "416",
+        "time": "06h45 - 09h10",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C1",
+        "room": "405",
+        "time": "06h45 - 09h10",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C1",
+        "room": "416",
+        "time": "06h45 - 09h10",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C1",
+        "room": "406",
+        "time": "06h45 - 09h10",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C1",
+        "room": "403",
+        "time": "06h45 - 09h10",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C1",
+        "room": "406",
+        "time": "06h45 - 09h10",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C1",
+        "room": "403",
+        "time": "06h45 - 09h10",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C1",
+        "room": "405",
+        "time": "09h20 - 11h45",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C1",
+        "room": "416",
+        "time": "09h20 - 11h45",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C1",
+        "room": "405",
+        "time": "09h20 - 11h45",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C1",
+        "room": "416",
+        "time": "09h20 - 11h45",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C1",
+        "room": "406",
+        "time": "09h20 - 11h45",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C1",
+        "room": "403",
+        "time": "09h20 - 11h45",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C1",
+        "room": "406",
+        "time": "09h20 - 11h45",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C1",
+        "room": "403",
+        "time": "09h20 - 11h45",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Hai"
+    },
+    {
+        "building": "C1",
+        "room": "405",
+        "time": "06h45 - 09h10",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C1",
+        "room": "416",
+        "time": "06h45 - 09h10",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C1",
+        "room": "405",
+        "time": "06h45 - 09h10",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C1",
+        "room": "416",
+        "time": "06h45 - 09h10",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C1",
+        "room": "406",
+        "time": "06h45 - 09h10",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C1",
+        "room": "403",
+        "time": "06h45 - 09h10",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C1",
+        "room": "406",
+        "time": "06h45 - 09h10",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C1",
+        "room": "403",
+        "time": "06h45 - 09h10",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C1",
+        "room": "405",
+        "time": "09h20 - 11h45",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C1",
+        "room": "416",
+        "time": "09h20 - 11h45",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C1",
+        "room": "405",
+        "time": "09h20 - 11h45",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C1",
+        "room": "416",
+        "time": "09h20 - 11h45",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C1",
+        "room": "406",
+        "time": "09h20 - 11h45",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C1",
+        "room": "403",
+        "time": "09h20 - 11h45",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C1",
+        "room": "406",
+        "time": "09h20 - 11h45",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C1",
+        "room": "403",
+        "time": "09h20 - 11h45",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Ba"
+    },
+    {
+        "building": "C1",
+        "room": "405",
+        "time": "06h45 - 09h10",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C1",
+        "room": "416",
+        "time": "06h45 - 09h10",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C1",
+        "room": "405",
+        "time": "06h45 - 09h10",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C1",
+        "room": "416",
+        "time": "06h45 - 09h10",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C1",
+        "room": "406",
+        "time": "06h45 - 09h10",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C1",
+        "room": "403",
+        "time": "06h45 - 09h10",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C1",
+        "room": "406",
+        "time": "06h45 - 09h10",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C1",
+        "room": "403",
+        "time": "06h45 - 09h10",
+        "startWeek": 39,
+        "endWeek": 39,
+        "day": "Thứ Tư"
+    },
+    {
+        "building": "C1",
+        "room": "405",
+        "time": "09h20 - 11h45",
+        "startWeek": 36,
+        "endWeek": 37,
+        "day": "Thứ Tư"
+    }
+]

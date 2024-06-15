@@ -156,7 +156,7 @@ const Dashboard = (props) => {
     return (
         <div className="dashboard">
             <Modal
-                title="Filter Rooms"
+                title="Lọc danh sách phòng trống"
                 visible={props.filterModalVisible}
                 onCancel={() => props.setFilterModalVisible(false)}
                 footer={

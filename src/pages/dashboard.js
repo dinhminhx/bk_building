@@ -11,18 +11,14 @@ const Dashboard = (props) => {
     const buildingColors = props.buildingColors;
     const buildings = props.buildings;
     const [visible, setVisible] = useState(false);
-    // const [checkboxStates, setCheckboxStates] = useState({
-    //     checkbox1: false,
-    //     checkbox2: false,
-    //     checkbox3: false,
-    // });
+    const [selectedRoom, setSelectedRoom] = useState(null);
     const [selectedBuilding, setSelectedBuilding] = useState(null);
     const [startTime, setStartTime] = useState(null);
     const [endTime, setEndTime] = useState(null);
     const [filteredRoomSet, setFilteredRoomSet] = useState(rooms);
     const [selectedDate, setSelectedDate] = useState(dayjs().locale("vi")); // Set locale to Vietnamese
     const [startDate] = useState(dayjs("2024-01-01").locale("vi")); // Ngày bắt đầu của kỳ học
-
+    const [roomInfoModalVisible, setRoomInfoModalVisible] = useState(false);
     const handleMapClick = () => {
         setVisible(true);
     };
@@ -30,14 +26,10 @@ const Dashboard = (props) => {
     const closeModal = () => {
         setVisible(false);
     };
-
-    // const handleCheckboxChange = (e, checkbox) => {
-    //     setCheckboxStates({
-    //         ...checkboxStates,
-    //         [checkbox]: e.target.checked,
-    //     });
-    // };
-
+    const handleInfoClick = (room) => {
+        setRoomInfoModalVisible(true);
+        setSelectedRoom(room);
+    };
     const handleBuildingFilterChange = (value) => {
         if (value === "All") {
             setSelectedBuilding(null);
@@ -211,20 +203,26 @@ const Dashboard = (props) => {
                                 defaultValue="All"
                                 placeholder="Từ"
                                 onChange={(value) => setStartTime(value)}
-                                options={[{ value: "All", label: "All" }, ...timeSlots.map((slot) => ({
-                                    value: slot,
-                                    label: slot,
-                                }))]}
+                                options={[
+                                    { value: "All", label: "All" },
+                                    ...timeSlots.map((slot) => ({
+                                        value: slot,
+                                        label: slot,
+                                    })),
+                                ]}
                             />
                             <Select
                                 style={{ width: "100%" }}
                                 defaultValue="All"
                                 placeholder="Đến"
                                 onChange={(value) => setEndTime(value)}
-                                options={[{ value: "All", label: "All" }, ...timeSlots.map((slot) => ({
-                                    value: slot,
-                                    label: slot,
-                                }))]}
+                                options={[
+                                    { value: "All", label: "All" },
+                                    ...timeSlots.map((slot) => ({
+                                        value: slot,
+                                        label: slot,
+                                    })),
+                                ]}
                             />
                         </Col>
                     </Row>
@@ -266,9 +264,28 @@ const Dashboard = (props) => {
                             </div>
                             <div className="room-time">{room.time}</div>
                         </div>
-                        <FaInfoCircle className="info-icon" />
+                        <FaInfoCircle
+                            className="info-icon"
+                            onClick={() => handleInfoClick(room)}
+                        />
                     </div>
                 ))}
+                {selectedRoom && (
+                    <Modal
+                        title={`Thông tin chi tiết phòng ${selectedRoom.room} tòa ${selectedRoom.building}`}
+                        visible={roomInfoModalVisible}
+                        onCancel={() => setRoomInfoModalVisible(false)}
+                        footer={null}
+                    >
+                        <p>Wifi: {selectedRoom.wifi === 1 ? "Có" : "Không"}</p>
+                        <p>
+                            Điều hòa:{" "}
+                            {selectedRoom.air_conditioning === 1
+                                ? "Có"
+                                : "Không"}
+                        </p>
+                    </Modal>
+                )}
                 <FaMapMarkerAlt
                     className="map-float-icon"
                     style={{ fontSize: "50px" }}

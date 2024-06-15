@@ -1,22 +1,18 @@
-import React from "react";
-import {
-    BrowserRouter as Router,
-    Routes,
-    Route,
-    useLocation,
-} from "react-router-dom";
+import React, { useState } from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "./App.css";
 import Dashboard from "./pages/dashboard";
 import Navbar from "./pages/navbar";
-
-var rooms = require('./data/data.json');
+var rooms = require("./data/data.json");
 rooms.sort((a, b) => a.building.localeCompare(b.building));
-var buildings = require('./data/sorted_buildings.json');
+var buildings = require("./data/sorted_buildings.json");
 const generateRandomColor = () => {
-    return `#${Math.floor(Math.random() * 16777215).toString(16).padStart(6, '0')}`;
+    return `#${Math.floor(Math.random() * 16777215)
+        .toString(16)
+        .padStart(6, "0")}`;
 };
 const buildingColors = {};
-buildings.forEach(building => {
+buildings.forEach((building) => {
     buildingColors[building] = generateRandomColor();
 });
 function App() {
@@ -28,12 +24,14 @@ function App() {
 }
 
 function Main() {
-    const location = useLocation();
-    const showNavbar = location.pathname === "/";
+    const [filterModalVisible, setFilterModalVisible] = useState(false);
 
+    const handleFilterClick = () => {
+        setFilterModalVisible(true);
+    };
     return (
         <div className="app" style={{ backgroundColor: "#5B904A" }}>
-            {showNavbar && <Navbar />}
+            <Navbar onFilterClick={handleFilterClick} />
             <Routes>
                 <Route
                     path="/"
@@ -42,6 +40,8 @@ function Main() {
                             rooms={rooms}
                             buildingColors={buildingColors}
                             buildings={buildings}
+                            filterModalVisible={filterModalVisible}
+                            setFilterModalVisible={setFilterModalVisible}
                         />
                     }
                 />

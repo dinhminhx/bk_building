@@ -22,7 +22,6 @@ const Dashboard = (props) => {
     const handleMapClick = () => {
         setVisible(true);
     };
-
     const closeModal = () => {
         setVisible(false);
     };
@@ -125,6 +124,7 @@ const Dashboard = (props) => {
         }
 
         if (selectedDate) {
+            console.log(selectedWeek);
             filteredRooms = filteredRooms.filter(
                 (room) =>
                     room.startWeek <= selectedWeek &&
@@ -137,9 +137,9 @@ const Dashboard = (props) => {
         setFilteredRoomSet(filteredRooms);
     };
 
-    // useEffect(() => {
-    //     filterRooms();
-    // }, [selectedBuilding, startTime, endTime, checkboxStates, selectedDate]);
+    useEffect(() => {
+        filterRooms();
+    }, []);
     const handleFilter = () => {
         filterRooms();
         props.setFilterModalVisible(false);
@@ -277,13 +277,23 @@ const Dashboard = (props) => {
                         onCancel={() => setRoomInfoModalVisible(false)}
                         footer={null}
                     >
-                        <p>Wifi: {selectedRoom.wifi === 1 ? "Có" : "Không"}</p>
+                        <p>
+                            Wifi:{" "}
+                            {selectedRoom.wifi === 1
+                                ? "OK"
+                                : selectedRoom.wifi === -1
+                                ? "Đang sửa"
+                                : "Không"}
+                        </p>
                         <p>
                             Điều hòa:{" "}
                             {selectedRoom.air_conditioning === 1
-                                ? "Có"
+                                ? "OK"
+                                : selectedRoom.wifi === -1
+                                ? "Đang sửa"
                                 : "Không"}
                         </p>
+                        <p>Sức chứa: {selectedRoom.capacity}</p>
                     </Modal>
                 )}
                 <FaMapMarkerAlt

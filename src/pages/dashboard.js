@@ -248,28 +248,33 @@ const Dashboard = (props) => {
                 </div>
             </Modal>
             <div className="main">
-                {filteredRoomSet.map((room, index) => (
-                    <div key={index} className="room-card">
-                        <div
-                            className="room-building"
-                            style={{
-                                backgroundColor: buildingColors[room.building],
-                            }}
-                        >
-                            {room.building}
-                        </div>
-                        <div className="room-details">
-                            <div className="room-name">
-                                {`Phòng ` + room.room}
+                {filteredRoomSet.length === 0 ? (
+                    <div className="no-data">No data available</div>
+                ) : (
+                    filteredRoomSet.map((room, index) => (
+                        <div key={index} className="room-card">
+                            <div
+                                className="room-building"
+                                style={{
+                                    backgroundColor:
+                                        buildingColors[room.building],
+                                }}
+                            >
+                                {room.building}
                             </div>
-                            <div className="room-time">{room.time}</div>
+                            <div className="room-details">
+                                <div className="room-name">
+                                    {`Phòng ` + room.room}
+                                </div>
+                                <div className="room-time">{room.time}</div>
+                            </div>
+                            <FaInfoCircle
+                                className="info-icon"
+                                onClick={() => handleInfoClick(room)}
+                            />
                         </div>
-                        <FaInfoCircle
-                            className="info-icon"
-                            onClick={() => handleInfoClick(room)}
-                        />
-                    </div>
-                ))}
+                    ))
+                )}
                 {selectedRoom && (
                     <Modal
                         title={`Thông tin chi tiết phòng ${selectedRoom.room} tòa ${selectedRoom.building}`}

@@ -92,7 +92,7 @@ const Dashboard = (props) => {
             );
             console.log("Building");
         }
-
+        console.log(startTime, endTime);
         if (startTime || endTime) {
             filteredRooms = filteredRooms.filter((room) => {
                 const roomStartTime = convertTimeToMinutes(
@@ -109,13 +109,13 @@ const Dashboard = (props) => {
                         return false;
                     }
                     return (
-                        roomStartTime <= convertTimeToMinutes(startTime) &&
-                        roomEndTime >= convertTimeToMinutes(endTime)
+                        roomStartTime >= convertTimeToMinutes(startTime) &&
+                        roomEndTime <= convertTimeToMinutes(endTime)
                     );
                 } else if (startTime) {
-                    return roomStartTime <= convertTimeToMinutes(startTime);
+                    return roomStartTime >= convertTimeToMinutes(startTime);
                 } else if (endTime) {
-                    return roomEndTime >= convertTimeToMinutes(endTime);
+                    return roomEndTime <= convertTimeToMinutes(endTime);
                 } else {
                     return true;
                 }
@@ -202,7 +202,10 @@ const Dashboard = (props) => {
                                 style={{ width: "100%", marginBottom: "5px" }}
                                 defaultValue="All"
                                 placeholder="Từ"
-                                onChange={(value) => setStartTime(value)}
+                                onChange={(value) => {
+                                    if (value === "All") setStartTime(null);
+                                    else setStartTime(value);
+                                }}
                                 options={[
                                     { value: "All", label: "All" },
                                     ...timeSlots.map((slot) => ({
@@ -215,7 +218,10 @@ const Dashboard = (props) => {
                                 style={{ width: "100%" }}
                                 defaultValue="All"
                                 placeholder="Đến"
-                                onChange={(value) => setEndTime(value)}
+                                onChange={(value) => {
+                                    if (value === "All") setEndTime(null);
+                                    else setEndTime(value);
+                                }}
                                 options={[
                                     { value: "All", label: "All" },
                                     ...timeSlots.map((slot) => ({
@@ -249,7 +255,7 @@ const Dashboard = (props) => {
             </Modal>
             <div className="main">
                 {filteredRoomSet.length === 0 ? (
-                    <div className="no-data">No data available</div>
+                    <div className="no-data">Không có phòng trống</div>
                 ) : (
                     filteredRoomSet.map((room, index) => (
                         <div key={index} className="room-card">

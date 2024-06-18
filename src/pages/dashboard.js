@@ -109,13 +109,13 @@ const Dashboard = (props) => {
                         return false;
                     }
                     return (
-                        roomStartTime >= convertTimeToMinutes(startTime) &&
-                        roomEndTime <= convertTimeToMinutes(endTime)
+                        roomStartTime <= convertTimeToMinutes(startTime) &&
+                        roomEndTime >= convertTimeToMinutes(endTime)
                     );
                 } else if (startTime) {
-                    return roomStartTime >= convertTimeToMinutes(startTime);
+                    return roomStartTime <= convertTimeToMinutes(startTime);
                 } else if (endTime) {
-                    return roomEndTime <= convertTimeToMinutes(endTime);
+                    return roomEndTime >= convertTimeToMinutes(endTime);
                 } else {
                     return true;
                 }

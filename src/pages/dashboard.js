@@ -294,7 +294,7 @@ const Dashboard = (props) => {
                                 ? "OK"
                                 : selectedRoom.wifi === -1
                                 ? "Đang sửa"
-                                : "Không"}
+                                : "Hỏng"}
                         </p>
                         <p>
                             Điều hòa:{" "}
@@ -302,7 +302,7 @@ const Dashboard = (props) => {
                                 ? "OK"
                                 : selectedRoom.wifi === -1
                                 ? "Đang sửa"
-                                : "Không"}
+                                : "Hỏng"}
                         </p>
                         <p>Sức chứa: {selectedRoom.capacity}</p>
                     </Modal>
